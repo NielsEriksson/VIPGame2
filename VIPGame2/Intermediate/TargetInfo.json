@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VIPGame2",
+			"Path": "..\\Source\\VIPGame2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VIPGame2Editor",
+			"Path": "..\\Source\\VIPGame2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

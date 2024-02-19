@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VIPGame2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VIPGame2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VIPGame2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VIPGame2">
+      <UniqueIdentifier>{9A3A509D-858A-3857-8801-A4B260374DF8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VIPGame2\VIPGame2.Build.cs">
+      <Filter>Source\VIPGame2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VIPGame2\VIPGame2.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\VIPGame2.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VIPGame2\VIPGame2Character.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\VIPGame2Character.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VIPGame2\VIPGame2GameMode.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\VIPGame2GameMode.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VIPGame2\VIPGame2PlayerController.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\VIPGame2PlayerController.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
