@@ -7,7 +7,11 @@
 			"files": [
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap"
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameModes/TDGameModeBase.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCharacter.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset"
 			]
 		}
 	]
