@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\GitHubRepos\\VIPGame2\\VIPGame2\\Source\\VIPGame2\\VIPGame2.Build.cs",
-		"E:\\GitHubRepos\\VIPGame2\\VIPGame2\\Source\\VIPGame2.Target.cs",
-		"E:\\GitHubRepos\\VIPGame2\\VIPGame2\\Source\\VIPGame2Editor.Target.cs"
+		"C:\\Users\\benja\\Github\\VIPGame2\\VIPGame2\\Source\\VIPGame2\\VIPGame2.Build.cs",
+		"C:\\Users\\benja\\Github\\VIPGame2\\VIPGame2\\Source\\VIPGame2.Target.cs",
+		"C:\\Users\\benja\\Github\\VIPGame2\\VIPGame2\\Source\\VIPGame2Editor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
