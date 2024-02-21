@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Git/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Components/ClickableComponent.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/HighlightMaterial.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/Grid.umap",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",

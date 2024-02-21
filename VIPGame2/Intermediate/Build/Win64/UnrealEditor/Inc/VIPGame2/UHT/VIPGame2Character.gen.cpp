@@ -123,15 +123,15 @@ void EmptyLinkFunctionForGeneratedCodeVIPGame2Character() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AVIPGame2Character);
 	AVIPGame2Character::~AVIPGame2Character() {}
-	struct Z_CompiledInDeferFile_FID_Users_benja_Github_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics
+	struct Z_CompiledInDeferFile_FID_Git_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_benja_Github_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AVIPGame2Character, AVIPGame2Character::StaticClass, TEXT("AVIPGame2Character"), &Z_Registration_Info_UClass_AVIPGame2Character, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVIPGame2Character), 2591284893U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_benja_Github_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_3156011796(TEXT("/Script/VIPGame2"),
-		Z_CompiledInDeferFile_FID_Users_benja_Github_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_benja_Github_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_3156011796(TEXT("/Script/VIPGame2"),
+		Z_CompiledInDeferFile_FID_Git_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_VIPGame2_VIPGame2_Source_VIPGame2_VIPGame2Character_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

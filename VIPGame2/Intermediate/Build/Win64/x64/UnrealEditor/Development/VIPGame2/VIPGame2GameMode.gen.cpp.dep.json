@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\benja\\github\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\vipgame2gamemode.gen.cpp",
+        "Source": "d:\\git\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\vipgame2gamemode.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\benja\\github\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\vipgame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "d:\\git\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\vipgame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\benja\\github\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vipgame2\\definitions.vipgame2.h",
-            "c:\\users\\benja\\github\\vipgame2\\vipgame2\\source\\vipgame2\\vipgame2gamemode.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\benja\\github\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\vipgame2gamemode.generated.h"
+            "d:\\git\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vipgame2\\definitions.vipgame2.h",
+            "d:\\git\\vipgame2\\vipgame2\\source\\vipgame2\\vipgame2gamemode.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\git\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\vipgame2gamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
