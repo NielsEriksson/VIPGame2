@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameModes/TDGameModeBase.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TowerType.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Components/ClickableComponent.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/HighlightMaterial.uasset",
@@ -20,6 +13,19 @@
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Components/PloppableComponent.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/RedMaterial.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/GreenMaterial.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/PlaceableBaseAsset.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/PathTile.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/Gery.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/Grey.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/Grid/TowerType.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameModes/TDGameModeBase.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TowerType.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCharacter.uasset"
 			]
 		}
