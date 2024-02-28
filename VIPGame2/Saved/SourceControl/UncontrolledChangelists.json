@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameModes/TDGameModeBase.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TowerType.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TDSave.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Components/ClickableComponent.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/HighlightMaterial.uasset",
@@ -26,13 +34,6 @@
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/Projectile_Bullet.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/ProjectileParent.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/PostProcess/Gery.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameModes/TDGameModeBase.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TowerType.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCharacter.uasset"
 			]
 		}
