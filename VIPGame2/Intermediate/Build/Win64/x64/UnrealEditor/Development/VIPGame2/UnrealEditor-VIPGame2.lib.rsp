@@ -7,6 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\VIPGame2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\Enemy.gen.cpp.obj"
+"E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\EnemySpawner.gen.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2.init.gen.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2Character.gen.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2GameMode.gen.cpp.obj"
@@ -15,5 +17,7 @@
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2Character.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2GameMode.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\VIPGame2PlayerController.cpp.obj"
+"E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\Enemy.cpp.obj"
+"E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\EnemySpawner.cpp.obj"
 "E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\Default.rc2.res"
 /OUT:"E:\GitHubRepos\VIPGame2\VIPGame2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VIPGame2\UnrealEditor-VIPGame2.lib"
