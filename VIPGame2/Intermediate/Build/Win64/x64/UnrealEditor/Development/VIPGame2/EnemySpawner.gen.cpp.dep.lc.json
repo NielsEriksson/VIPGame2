@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\githubrepos\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\enemyspawner.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\githubrepos\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\vipgame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "e:\\githubrepos\\vipgame2\\vipgame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vipgame2\\definitions.vipgame2.h",
+            "e:\\githubrepos\\vipgame2\\vipgame2\\source\\vipgame2\\enemyspawner.h",
+            "e:\\githubrepos\\vipgame2\\vipgame2\\intermediate\\build\\win64\\unrealeditor\\inc\\vipgame2\\uht\\enemyspawner.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

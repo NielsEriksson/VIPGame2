@@ -11,6 +11,7 @@
     <None Include="..\..\Source\VIPGame2Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\VIPGame2">
       <UniqueIdentifier>{9A3A509D-858A-3857-8801-A4B260374DF8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\VIPGame2\Enemy.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\Enemy.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VIPGame2\EnemySpawner.cpp">
+      <Filter>Source\VIPGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VIPGame2\EnemySpawner.h">
+      <Filter>Source\VIPGame2</Filter>
+    </ClInclude>
     <None Include="..\..\Source\VIPGame2\VIPGame2.Build.cs">
       <Filter>Source\VIPGame2</Filter>
     </None>

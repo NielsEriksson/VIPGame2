@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VIPGame2ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+849481d48c52968c61a73d81d855450f489622c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c88e3ca1614f4ded104c912f5f4f701e3fd1f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("VIPGame2ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VIPGame2ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
