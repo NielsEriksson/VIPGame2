@@ -1252,3 +1252,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.11-11.38.48:665][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto2
 [2024.03.11-11.38.48:665][188]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner_Auto22DB55ACF4CFF7FBB3E11F28A753C080E.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto2.uasset'
 [2024.03.11-11.38.48:666][188]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.03.11-12.03.43:576][576]LogDerivedDataCache: C:/Users/Lucas S.Z/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.216 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9975 files in 12451 folders with total size 1093 MiB.
+[2024.03.11-12.06.57:295][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.11-12.06.57:298][783]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.053
+[2024.03.11-12.06.57:298][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer] ([2] browsable assets)...
+[2024.03.11-12.06.57:395][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer.BP_EnemyTinkerer]
+[2024.03.11-12.06.57:395][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer]
+[2024.03.11-12.06.57:452][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer_Auto3
+[2024.03.11-12.06.57:452][783]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyTinkerer_Auto3C8E9F288435198C7F90E41836F890222.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer_Auto3.uasset'
+[2024.03.11-12.06.57:453][783]LogFileHelpers: Auto-saving content packages took 0.155
+[2024.03.11-12.16.52:361][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:549][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:575][986]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:632][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:762][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:781][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:830][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.52:864][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.16.56:182][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.17.03:188][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.17.03:369][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.17.03:613][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.17.03:890][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-12.17.22:460][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.11-12.17.26:941][604]LogSlate: Window 'Save Content' being destroyed
+[2024.03.11-12.17.26:951][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-12.17.26:984][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawner/BP_EnemySpawner" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset" SILENT=true
+[2024.03.11-12.17.27:021][604]LogSavePackage: Moving output files for package: /Game/Enemy/EnemySpawner/BP_EnemySpawner
+[2024.03.11-12.17.27:046][604]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner652AA4C54DABF633710572920CE0CF36.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset'
+[2024.03.11-12.17.27:047][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyTinkerer.uasset" SILENT=true
+[2024.03.11-12.17.27:065][604]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer
+[2024.03.11-12.17.27:065][604]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyTinkerer8D40187944E1834126F57C86C320ED9A.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyTinkerer.uasset'
+[2024.03.11-12.17.27:072][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.37 sec)
+[2024.03.11-12.17.27:100][604]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.11-12.17.27:100][604]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemySpawner/BP_EnemySpawner.BP_EnemySpawner
+[2024.03.11-12.17.27:100][604]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer.BP_EnemyTinkerer
