@@ -1221,3 +1221,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.11-11.24.08:971][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.01 sec)
 [2024.03.11-11.24.08:973][326]AssetCheck: New page: Asset Save: BP_EnemyTinkerer
 [2024.03.11-11.24.08:973][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyTinkerer.BP_EnemyTinkerer
+[2024.03.11-11.37.04:273][365]BlueprintLog: New page: Compile BP_EnemyTinkerer
+[2024.03.11-11.37.04:312][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.11-11.37.12:384][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-11.37.12:471][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-11.37.12:493][198]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-11.37.46:254][967]LogEditorTransaction: Undo Add Node
+[2024.03.11-11.37.55:032][919]BlueprintLog: New page: Compile BP_Enemy
+[2024.03.11-11.37.55:109][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.11-11.37.55:563][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-11.37.55:640][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_Enemy" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset" SILENT=true
+[2024.03.11-11.37.55:691][949]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_Enemy
+[2024.03.11-11.37.55:692][949]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_Enemy6D6B9509404B52DFA710C4BA505B39BE.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset'
+[2024.03.11-11.37.55:701][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.14 sec)
+[2024.03.11-11.37.55:703][949]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.03.11-11.37.55:703][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_Enemy.BP_Enemy
+[2024.03.11-11.38.20:014][694]BlueprintLog: New page: Compile BP_Enemy
+[2024.03.11-11.38.20:074][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.11-11.38.20:738][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-11.38.20:818][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_Enemy" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset" SILENT=true
+[2024.03.11-11.38.20:841][750]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_Enemy
+[2024.03.11-11.38.20:842][750]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_Enemy363B45514191761892595D93022B39A3.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset'
+[2024.03.11-11.38.20:847][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.25 sec)
+[2024.03.11-11.38.20:849][750]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.03.11-11.38.20:849][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_Enemy.BP_Enemy
+[2024.03.11-11.38.48:612][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.11-11.38.48:614][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.019
+[2024.03.11-11.38.48:619][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemySpawner/BP_EnemySpawner] ([2] browsable assets)...
+[2024.03.11-11.38.48:619][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemySpawner/BP_EnemySpawner]
+[2024.03.11-11.38.48:665][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto2
+[2024.03.11-11.38.48:665][188]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner_Auto22DB55ACF4CFF7FBB3E11F28A753C080E.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto2.uasset'
+[2024.03.11-11.38.48:666][188]LogFileHelpers: Auto-saving content packages took 0.052
