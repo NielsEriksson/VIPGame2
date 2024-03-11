@@ -8,12 +8,15 @@
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterPistol.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/PlaceableBaseAsset.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/Enemy/BP_Enemy.uasset",
-				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/M3/N37XO5KSVC6Y4UM5OFJBCA.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset",
-				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/7E/JI2U2I230W47MVPXHJ3HLL.uasset"
+				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/7E/JI2U2I230W47MVPXHJ3HLL.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/FireTower.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/GasTank.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/FireTank.uasset",
+				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/M3/N37XO5KSVC6Y4UM5OFJBCA.uasset"
 			]
 		}
 	]
