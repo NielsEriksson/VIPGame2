@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyTinkerer.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/LR/QN2GOYWWP16E3QA5FCRDBN.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyBlockadeDestroyer.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/LE/3A2XT07XPJ3F1RD2ZB2JYV.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/B7/3DUSU3FSR2C47S1K97ZB1T.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterPistol.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/GameObjects/Objects/PlaceableBaseAsset.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/Enemy/BP_Enemy.uasset",
