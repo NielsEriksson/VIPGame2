@@ -2575,3 +2575,145 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.12-11.54.33:542][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.03.12-11.54.33:546][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2024.03.12-11.54.33:640][766]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.03.12-11.55.34:523][810]LogContentBrowser: Deferred new asset file creation: BP_Enemy_Child
+[2024.03.12-11.55.34:543][810]LogContentBrowser: Creating deferred item: BP_Enemy_Child
+[2024.03.12-11.55.34:555][811]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enemy_Child).
+[2024.03.12-11.55.46:578][ 26]LogContentBrowser: Attempting asset rename: BP_Enemy_Child -> BP_EnemyHazmat
+[2024.03.12-11.55.46:584][ 26]LogContentBrowser: End creating deferred item BP_Enemy_Child
+[2024.03.12-11.55.46:585][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-11.55.58:177][ 81]LogContentBrowser: Deferred new asset file creation: BP_Enemy_Child
+[2024.03.12-11.55.58:196][ 81]LogContentBrowser: Creating deferred item: BP_Enemy_Child
+[2024.03.12-11.55.58:207][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enemy_Child).
+[2024.03.12-11.56.09:938][268]LogContentBrowser: Attempting asset rename: BP_Enemy_Child -> BP_EnemyFireFighter
+[2024.03.12-11.56.09:944][268]LogContentBrowser: End creating deferred item BP_Enemy_Child
+[2024.03.12-11.56.09:945][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-11.56.23:940][569]LogContentBrowser: Attempting asset rename: BP_EnemyFireFighter -> BP_EnemyFireFighter
+[2024.03.12-11.56.24:119][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyFireFighter.BP_EnemyFireFighter
+[2024.03.12-11.56.24:119][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-11.56.24:119][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-11.56.24:265][580]LogViewport: Scene viewport resized to 1423x979, mode Windowed.
+[2024.03.12-11.56.39:570][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-11.56.39:607][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_EnemyFireFighter" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyFireFighter.uasset" SILENT=true
+[2024.03.12-11.56.39:612][334]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_EnemyFireFighter
+[2024.03.12-11.56.39:612][334]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyFireFighterB1F4CB614CBF3394D2E01AB773E42BF7.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyFireFighter.uasset'
+[2024.03.12-11.56.39:620][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 941 ms)
+[2024.03.12-11.56.39:621][334]AssetCheck: New page: Asset Save: BP_EnemyFireFighter
+[2024.03.12-11.56.39:621][334]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyFireFighter.BP_EnemyFireFighter
+[2024.03.12-11.56.42:543][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.12-11.56.43:601][662]LogSlate: Window 'Save Content' being destroyed
+[2024.03.12-11.56.43:624][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-11.56.43:720][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_EnemyHazmat" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyHazmat.uasset" SILENT=true
+[2024.03.12-11.56.43:723][662]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_EnemyHazmat
+[2024.03.12-11.56.43:723][662]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyHazmat94409BFB481BE8AB08ED2C8DE901A8BB.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyHazmat.uasset'
+[2024.03.12-11.56.43:732][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.04 sec)
+[2024.03.12-11.56.43:733][662]AssetCheck: New page: Asset Save: BP_EnemyHazmat
+[2024.03.12-11.56.43:733][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyHazmat.BP_EnemyHazmat
+[2024.03.12-11.56.45:000][805]BlueprintLog: New page: Compile BP_EnemyFireFighter
+[2024.03.12-11.56.45:036][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.12-11.56.47:849][ 61]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyHazmat.BP_EnemyHazmat
+[2024.03.12-11.56.47:849][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-11.56.47:849][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-11.56.48:001][ 61]LogViewport: Scene viewport resized to 1423x979, mode Windowed.
+[2024.03.12-12.06.34:537][383]LogDerivedDataCache: C:/Users/Lucas S.Z/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.173 and deleted 32 files with total size 0 MiB and 31 empty folders. Scanned 9975 files in 12451 folders with total size 1093 MiB.
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 0 (Found bundle for host: 0xb6d271709c0 [serially])
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 6 (Closing connection)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDEF88B92-4A51-5E25-B2D7-88B1776DE446%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 9 (  Trying 3.208.154.40:443...)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.208.154.40) port 443)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 34 (Closing connection)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: 00000B6DA9FB2800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-12.12.46:751][643]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDEF88B92-4A51-5E25-B2D7-88B1776DE446%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-13.06.34:495][935]LogDerivedDataCache: C:/Users/Lucas S.Z/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.130 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 9943 files in 12420 folders with total size 1092 MiB.
+[2024.03.12-13.10.50:329][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.03.12-13.10.50:331][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.037
+[2024.03.12-13.10.50:332][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/EnemyBlueprints/BP_Enemy] ([2] browsable assets)...
+[2024.03.12-13.10.50:431][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/EnemyBlueprints/BP_Enemy.BP_Enemy]
+[2024.03.12-13.10.50:431][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemyBlueprints/BP_Enemy]
+[2024.03.12-13.10.50:480][828]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemyBlueprints/BP_Enemy_Auto4
+[2024.03.12-13.10.50:480][828]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_Enemy_Auto442DC12B943B1B7452B5B9BBC19CD220B.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/Enemy/EnemyBlueprints/BP_Enemy_Auto4.uasset'
+[2024.03.12-13.10.50:486][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/EnemySpawner/BP_EnemySpawner] ([2] browsable assets)...
+[2024.03.12-13.10.50:486][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/EnemySpawner/BP_EnemySpawner]
+[2024.03.12-13.10.50:545][828]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto4
+[2024.03.12-13.10.50:545][828]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner_Auto4FC9955744DF2573C822C52BE42A26EC5.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/Enemy/EnemySpawner/BP_EnemySpawner_Auto4.uasset'
+[2024.03.12-13.10.50:546][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GameObjects/Objects/ShooterShotgun] ([2] browsable assets)...
+[2024.03.12-13.10.50:552][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/Objects/ShooterShotgun.ShooterShotgun]
+[2024.03.12-13.10.50:552][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Objects/ShooterShotgun]
+[2024.03.12-13.10.50:598][828]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameObjects/Objects/ShooterShotgun_Auto4
+[2024.03.12-13.10.50:598][828]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterShotgun_Auto4FEF7662A47AF823E72471F988AF02F41.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/GameObjects/Objects/ShooterShotgun_Auto4.uasset'
+[2024.03.12-13.10.50:599][828]LogFileHelpers: Auto-saving content packages took 0.267
+[2024.03.12-13.15.54:031][367]BlueprintLog: New page: Compile BP_Enemy
+[2024.03.12-13.15.54:185][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.03.12-13.15.55:426][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.12-13.15.56:398][482]LogSlate: Window 'Save Content' being destroyed
+[2024.03.12-13.15.56:405][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-13.15.56:536][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_Enemy" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset" SILENT=true
+[2024.03.12-13.15.56:612][482]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_Enemy
+[2024.03.12-13.15.56:612][482]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyE3F7B60043A141407B3FCC84FDDEEACA.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset'
+[2024.03.12-13.15.56:614][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawner/BP_EnemySpawner" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset" SILENT=true
+[2024.03.12-13.15.56:650][482]LogSavePackage: Moving output files for package: /Game/Enemy/EnemySpawner/BP_EnemySpawner
+[2024.03.12-13.15.56:651][482]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner7F7A79C848EBB9F53B435CBCFAE54F69.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset'
+[2024.03.12-13.15.56:658][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Objects/ShooterShotgun" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset" SILENT=true
+[2024.03.12-13.15.56:681][482]LogSavePackage: Moving output files for package: /Game/GameObjects/Objects/ShooterShotgun
+[2024.03.12-13.15.56:682][482]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterShotgun91A5C5304AC67F4641E940892F59ED2C.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset'
+[2024.03.12-13.15.56:688][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 1.33 sec)
+[2024.03.12-13.15.56:691][482]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.12-13.15.56:691][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_Enemy.BP_Enemy
+[2024.03.12-13.15.56:691][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemySpawner/BP_EnemySpawner.BP_EnemySpawner
+[2024.03.12-13.15.56:692][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameObjects/Objects/ShooterShotgun.ShooterShotgun
+[2024.03.12-13.18.48:187][266]BlueprintLog: New page: Compile BP_Enemy
+[2024.03.12-13.18.48:289][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.12-13.18.48:933][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-13.18.49:026][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_Enemy" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset" SILENT=true
+[2024.03.12-13.18.49:056][309]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_Enemy
+[2024.03.12-13.18.49:056][309]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyFFB5900C4B2B4914C0FF158ED8D93876.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset'
+[2024.03.12-13.18.49:062][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.46 sec)
+[2024.03.12-13.18.49:064][309]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.03.12-13.18.49:064][309]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_Enemy.BP_Enemy
+[2024.03.12-13.18.50:725][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.12-13.18.52:240][503]LogSlate: Window 'Save Content' being destroyed
+[2024.03.12-13.18.52:246][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-13.18.52:268][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawner/BP_EnemySpawner" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset" SILENT=true
+[2024.03.12-13.18.52:304][503]LogSavePackage: Moving output files for package: /Game/Enemy/EnemySpawner/BP_EnemySpawner
+[2024.03.12-13.18.52:305][503]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemySpawner2BD438074A93A7B36683A1830C6522E5.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset'
+[2024.03.12-13.18.52:310][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.52 sec)
+[2024.03.12-13.18.52:312][503]AssetCheck: New page: Asset Save: BP_EnemySpawner
+[2024.03.12-13.18.52:312][503]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemySpawner/BP_EnemySpawner.BP_EnemySpawner
+[2024.03.12-13.19.12:914][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-13.19.12:949][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBlueprints/BP_EnemyHazmat" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyHazmat.uasset" SILENT=true
+[2024.03.12-13.19.12:966][887]LogSavePackage: Moving output files for package: /Game/Enemy/EnemyBlueprints/BP_EnemyHazmat
+[2024.03.12-13.19.12:967][887]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/BP_EnemyHazmat8324DA084DB02B60270410804CA769BE.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_EnemyHazmat.uasset'
+[2024.03.12-13.19.12:972][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.58 sec)
+[2024.03.12-13.19.12:973][887]AssetCheck: New page: Asset Save: BP_EnemyHazmat
+[2024.03.12-13.19.12:973][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/EnemyBlueprints/BP_EnemyHazmat.BP_EnemyHazmat
+[2024.03.12-13.19.14:636][ 74]BlueprintLog: New page: Compile BP_EnemyHazmat
+[2024.03.12-13.19.14:672][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
