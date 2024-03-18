@@ -10,7 +10,15 @@
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/ObjectMenu.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUDClass.uasset"
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUDClass.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterPistol.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/FireTank.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/GasTank.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/Blockader.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/TDSave.uasset"
 			]
 		}
 	]
