@@ -17216,3 +17216,536 @@ Script Stack (7 frames) :
 [2024.03.20-15.26.24:737][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.03.20-15.26.24:742][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2024.03.20-15.26.24:809][909]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2024.03.20-15.27.48:313][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.20-15.27.49:677][607]LogSlate: Window 'Save Content' being destroyed
+[2024.03.20-15.27.49:686][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.20-15.27.49:799][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Objects/ShooterMachinegun" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset" SILENT=true
+[2024.03.20-15.27.49:823][607]LogSavePackage: Moving output files for package: /Game/GameObjects/Objects/ShooterMachinegun
+[2024.03.20-15.27.49:824][607]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterMachinegun61889B774D0A12D2046430875A78FD7A.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset'
+[2024.03.20-15.27.49:831][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.72 sec)
+[2024.03.20-15.27.49:833][607]AssetCheck: New page: Asset Save: ShooterMachinegun
+[2024.03.20-15.27.49:833][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameObjects/Objects/ShooterMachinegun.ShooterMachinegun
+[2024.03.20-15.28.44:895][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.20-15.28.44:933][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Objects/ShooterMachinegun" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset" SILENT=true
+[2024.03.20-15.28.44:958][116]LogSavePackage: Moving output files for package: /Game/GameObjects/Objects/ShooterMachinegun
+[2024.03.20-15.28.44:959][116]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterMachinegun233F27B9409A8C2D92231A9114744977.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset'
+[2024.03.20-15.28.44:965][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.79 sec)
+[2024.03.20-15.28.44:967][116]AssetCheck: New page: Asset Save: ShooterMachinegun
+[2024.03.20-15.28.44:967][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameObjects/Objects/ShooterMachinegun.ShooterMachinegun
+[2024.03.20-15.28.45:639][190]BlueprintLog: New page: Compile ShooterMachinegun
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.28.45:677][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.28.45:678][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.28.45:679][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.28.45:680][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.28.45:680][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.28.45:680][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.28.45:681][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.28.45:709][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.20-15.29.09:466][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.20-15.29.09:500][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Objects/ShooterMachinegun" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset" SILENT=true
+[2024.03.20-15.29.09:524][303]LogSavePackage: Moving output files for package: /Game/GameObjects/Objects/ShooterMachinegun
+[2024.03.20-15.29.09:525][303]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterMachinegunBFF5B9E8445BE6F4181B6F841ADD0F9E.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset'
+[2024.03.20-15.29.09:532][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.86 sec)
+[2024.03.20-15.29.09:534][303]AssetCheck: New page: Asset Save: ShooterMachinegun
+[2024.03.20-15.29.09:534][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameObjects/Objects/ShooterMachinegun.ShooterMachinegun
+[2024.03.20-15.29.10:476][389]BlueprintLog: New page: Compile ShooterMachinegun
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.29.10:517][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.29.10:518][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.29.10:519][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.29.10:520][389]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.29.10:552][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.20-15.29.16:509][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.20-15.29.16:519][873]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.20-15.29.16:519][873]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.03.20-15.29.16:521][873]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 61 ms)
+[2024.03.20-15.29.16:521][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.20-15.29.16:521][873]PIE: New page: PIE session: TopDownMap (20 Mar 2024, 17:29:16)
+[2024.03.20-15.29.16:521][873]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.03.20-15.29.16:528][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006662s)
+[2024.03.20-15.29.16:528][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006696s)
+[2024.03.20-15.29.16:544][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.20-15.29.16:549][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.20-15.29.16:549][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.20-15.29.16:550][873]LogAIModule: Creating AISystem for world TopDownMap
+[2024.03.20-15.29.16:550][873]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.20-15.29.16:550][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.20-15.29.16:550][873]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.20-15.29.16:550][873]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.20-15.29.16:552][873]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.03.20-15.29.16:552][873]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.29 sec)
+[2024.03.20-15.29.16:552][873]LogPlayLevel: PIE: World Init took: (0.002962s)
+[2024.03.20-15.29.16:552][873]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.20-15.29.16:552][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.20-15.29.16:552][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.20-15.29.16:553][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.20-15.29.16:553][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.20-15.29.16:553][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.20-15.29.16:554][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.20-15.29.16:579][873]LogAudioMixer: Display: Using Audio Hardware Device Högtalare (High Definition Audio Device)
+[2024.03.20-15.29.16:579][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.20-15.29.16:579][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.20-15.29.16:579][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.20-15.29.16:579][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.20-15.29.16:579][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.20-15.29.16:582][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.20-15.29.16:582][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.20-15.29.16:582][873]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.20-15.29.16:582][873]LogAudio: Display: Audio Device (ID: 20) registered with world 'TopDownMap'.
+[2024.03.20-15.29.16:582][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.20-15.29.16:584][873]LogLoad: Game class is 'TDGameModeBase_C'
+[2024.03.20-15.29.16:589][873]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.03.20-16.29.16
+[2024.03.20-15.29.16:590][873]LogWorld: Bringing up level for play took: 0.004845
+[2024.03.20-15.29.16:591][873]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2024.03.20-15.29.16:593][873]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Wait for round to start
+[2024.03.20-15.29.16:618][873]PIE: Server logged in
+[2024.03.20-15.29.16:619][873]PIE: Play in editor total start time 0.1 seconds.
+[2024.03.20-15.29.21:508][345]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Done waiting
+[2024.03.20-15.29.21:508][345]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Starting next wave
+[2024.03.20-15.29.21:511][345]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.22:017][396]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.22:523][447]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.23:030][498]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.23:532][547]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.24:035][593]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.29.24:461][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.20-15.29.24:461][631]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.03.20-15.29.24:461][631]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.20-15.29.24:462][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.20-15.29.24:462][631]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.03.20-15.29.24:467][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.20-15.29.24:473][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.20-15.29.24:489][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.20-15.29.24:490][631]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.20-15.29.24:490][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.20-15.29.24:491][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.20-15.29.24:495][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.20-15.29.24:499][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.20-15.29.24:568][632]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2024.03.20-15.29.52:753][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.20-15.29.52:759][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/FM/KNVXK3IQ6RWGZRCLRH5VXU_Auto7
+[2024.03.20-15.29.52:759][805]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/KNVXK3IQ6RWGZRCLRH5VXU_Auto70693543D4C5D8D860BC03CB1CD763665.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/FM/KNVXK3IQ6RWGZRCLRH5VXU_Auto7.uasset'
+[2024.03.20-15.29.52:761][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.024
+[2024.03.20-15.29.52:761][805]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 0 (Found bundle for host: 0xad2c9170390 [serially])
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 6 (Closing connection)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA2E1647B-4B99-B0E5-D0E5-C19BF05FDC86%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 9 (  Trying 3.224.219.55:443...)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.224.219.55) port 443)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.20-15.32.00:097][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 25 (Server certificate:)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 34 (Closing connection)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: 00000AD374203200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.20-15.32.00:098][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA2E1647B-4B99-B0E5-D0E5-C19BF05FDC86%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.20-15.33.09:915][900]LogDerivedDataCache: C:/Users/Lucas S.Z/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8802 files in 11117 folders with total size 490 MiB.
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 0 (Found bundle for host: 0xad2c91701b0 [serially])
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 6 (Closing connection)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA2E1647B-4B99-B0E5-D0E5-C19BF05FDC86%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 9 (  Trying 52.202.73.8:443...)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.202.73.8) port 443)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 25 (Server certificate:)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 34 (Closing connection)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: 00000AD3BEF07300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.20-15.34.59:800][230]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA2E1647B-4B99-B0E5-D0E5-C19BF05FDC86%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ad9eeb6d4f08f6e2efb74bbf4d1c378d%7C9ec57a1c182d46d1b5eb2a249cfe3e0f%7C36fe4264-14cd-428f-acad-7f3a5132e80e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.20-15.40.00:848][949]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2024.03.20-15.40.00:923][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.20-15.40.00:923][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.20-15.40.00:932][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.20-15.40.01:451][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.20-15.40.01:451][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.20-15.40.01:797][949]LogViewport: Scene viewport resized to 1525x1226, mode Windowed.
+[2024.03.20-15.43.05:389][775]BlueprintLog: New page: Compile ShooterMachinegun
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.43.05:428][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Scale for /Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.OutCannon has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.OutCannon' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_01' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'spine_02' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'pelvis' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'thigh_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'calf_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'foot_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'hand_l' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'neck_01' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'head' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_r' 
+[2024.03.20-15.43.05:429][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_92:PersistentLevel.ShooterMachinegun_C_0.Body' Bone: 'ball_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.OutCannon has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.20-15.43.05:430][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.OutCannon' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_01' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'spine_02' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'pelvis' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'thigh_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'calf_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'foot_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'upperarm_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'lowerarm_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'hand_l' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'neck_01' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'head' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_r' 
+[2024.03.20-15.43.05:431][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'ShooterMachinegun' Component: '/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545.Body' Bone: 'ball_l' 
+[2024.03.20-15.43.05:462][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.20-15.44.30:954][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.20-15.44.32:010][142]LogSlate: Window 'Save Content' being destroyed
+[2024.03.20-15.44.32:039][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.20-15.44.32:122][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Objects/ShooterMachinegun" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset" SILENT=true
+[2024.03.20-15.44.32:147][142]LogSavePackage: Moving output files for package: /Game/GameObjects/Objects/ShooterMachinegun
+[2024.03.20-15.44.32:148][142]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/ShooterMachinegun4E58CB7E47ABCE035A400E8CB31BFB8E.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset'
+[2024.03.20-15.44.32:151][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/FM/KNVXK3IQ6RWGZRCLRH5VXU
+[2024.03.20-15.44.32:151][142]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/KNVXK3IQ6RWGZRCLRH5VXU8B90DEB44C7EFCBCD8F7998F1585916E.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/FM/KNVXK3IQ6RWGZRCLRH5VXU.uasset'
+[2024.03.20-15.44.32:163][142]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton
+[2024.03.20-15.44.32:164][142]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/SK_Mannequin_Skeleton6680E53244F122E996D1919CADD045D6.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset'
+[2024.03.20-15.44.32:179][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 7.00 sec)
+[2024.03.20-15.44.32:221][142]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.20-15.44.32:221][142]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameObjects/Objects/ShooterMachinegun.ShooterMachinegun
+[2024.03.20-15.44.32:221][142]LogContentValidation: Display: Validating /Game/GameObjects/Objects/ShooterMachinegun.ShooterMachinegun_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545
+[2024.03.20-15.44.32:221][142]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2024.03.20-15.44.33:968][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.20-15.44.33:978][275]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.20-15.44.33:978][275]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.03.20-15.44.33:979][275]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 63 ms)
+[2024.03.20-15.44.33:980][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.20-15.44.33:980][275]PIE: New page: PIE session: TopDownMap (20 Mar 2024, 17:44:33)
+[2024.03.20-15.44.33:980][275]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.03.20-15.44.33:987][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006726s)
+[2024.03.20-15.44.33:987][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006759s)
+[2024.03.20-15.44.34:001][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.20-15.44.34:003][275]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.20-15.44.34:003][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.20-15.44.34:003][275]LogAIModule: Creating AISystem for world TopDownMap
+[2024.03.20-15.44.34:004][275]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.20-15.44.34:004][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.20-15.44.34:004][275]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.20-15.44.34:004][275]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.20-15.44.34:006][275]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.03.20-15.44.34:006][275]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.29 sec)
+[2024.03.20-15.44.34:006][275]LogPlayLevel: PIE: World Init took: (0.003071s)
+[2024.03.20-15.44.34:006][275]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.20-15.44.34:006][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.20-15.44.34:006][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.20-15.44.34:007][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.20-15.44.34:007][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.20-15.44.34:007][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.20-15.44.34:008][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.20-15.44.34:032][275]LogAudioMixer: Display: Using Audio Hardware Device Högtalare (High Definition Audio Device)
+[2024.03.20-15.44.34:032][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.20-15.44.34:032][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.20-15.44.34:032][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.20-15.44.34:033][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.20-15.44.34:033][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.20-15.44.34:035][275]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.20-15.44.34:035][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.20-15.44.34:035][275]LogAudio: Display: Audio Device (ID: 21) registered with world 'TopDownMap'.
+[2024.03.20-15.44.34:035][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.20-15.44.34:035][275]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.20-15.44.34:037][275]LogLoad: Game class is 'TDGameModeBase_C'
+[2024.03.20-15.44.34:042][275]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.03.20-16.44.34
+[2024.03.20-15.44.34:043][275]LogWorld: Bringing up level for play took: 0.004841
+[2024.03.20-15.44.34:045][275]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2024.03.20-15.44.34:046][275]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Wait for round to start
+[2024.03.20-15.44.34:058][275]PIE: Server logged in
+[2024.03.20-15.44.34:058][275]PIE: Play in editor total start time 0.081 seconds.
+[2024.03.20-15.44.38:969][733]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Done waiting
+[2024.03.20-15.44.38:969][733]LogBlueprintUserMessages: [BP_EnemySpawner_C_UAID_B42E99EDBAC9AEDC01_1368355106] Starting next wave
+[2024.03.20-15.44.38:972][733]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.39:479][785]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.39:982][835]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.40:488][886]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.40:960][934]LogCharacterMovement: TDCameraController_C_0 is stuck and failed to move! Velocity: X=-20.28 Y=-79.38 Z=0.00 Location: X=1470.40 Y=1588.58 Z=88.10 Normal: X=0.92 Y=-0.11 Z=-0.39 PenetrationDepth:0.318 Actor:Projectile_Bullet_C_5 Component:Bullet BoneName:None (0 other events since notify)
+[2024.03.20-15.44.40:995][937]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.41:499][986]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.42:007][ 36]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.42:516][ 85]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.42:966][127]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.43:027][132]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.43:471][173]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.43:529][178]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.43:972][218]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.44:480][265]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.44:985][309]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.44:996][310]LogBlueprintUserMessages: [TDGameModeBase_C_0] 49
+[2024.03.20-15.44.45:494][357]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.45:504][358]LogBlueprintUserMessages: [TDGameModeBase_C_0] 48
+[2024.03.20-15.44.45:995][405]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.46:005][406]LogBlueprintUserMessages: [TDGameModeBase_C_0] 47
+[2024.03.20-15.44.46:513][453]LogBlueprintUserMessages: [TDGameModeBase_C_0] 46
+[2024.03.20-15.44.46:514][453]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.47:015][496]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.47:026][497]LogBlueprintUserMessages: [TDGameModeBase_C_0] 45
+[2024.03.20-15.44.47:522][544]LogBlueprintUserMessages: [ShooterMachinegun_C_UAID_B42E99EDBAC942E401_1093835545] Enemy entered range
+[2024.03.20-15.44.47:522][544]LogBlueprintUserMessages: [TDGameModeBase_C_0] 44
+[2024.03.20-15.44.48:148][600]LogBlueprintUserMessages: [TDGameModeBase_C_0] 43
+[2024.03.20-15.44.48:656][644]LogBlueprintUserMessages: [TDGameModeBase_C_0] 42
+[2024.03.20-15.44.48:879][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.20-15.44.48:879][662]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.03.20-15.44.48:879][662]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.20-15.44.48:880][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.20-15.44.48:880][662]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.03.20-15.44.48:885][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.20-15.44.48:891][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.20-15.44.48:909][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.20-15.44.48:909][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.20-15.44.48:909][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.20-15.44.48:911][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.20-15.44.48:919][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.20-15.44.48:989][663]LogPlayLevel: Display: Destroying online subsystem :Context_120
