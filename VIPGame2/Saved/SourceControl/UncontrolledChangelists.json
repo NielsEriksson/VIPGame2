@@ -19,7 +19,20 @@
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_GangMember_Male_01.uasset",
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_GangMember_Male_02.uasset",
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_GangMember_Male_03.uasset",
-				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_Hazmat_Suit_Male_01.uasset"
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_Hazmat_Suit_Male_01.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/YS/08TDOLIOYGSMCB2XFO3QCD.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Animations/BS_Aim.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Animations/BS_Aim_Rifle.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterPistol.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Animations/AMP_PistolShooter.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/NA/RE1JG0ZFIM43WO4LH5OUCV.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Animations/AMP_MachineGunnerShooter.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/FM/KNVXK3IQ6RWGZRCLRH5VXU.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/GameObjects/Objects/PlaceableBaseAsset.uasset",
+				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/Animations/BS_Shoot_Rifle.uasset"
 			]
 		}
 	]
