@@ -14,7 +14,10 @@
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/GasTank.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/FireTank.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/Blockader.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset"
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/ObjectMenu.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset"
 			]
 		}
 	]
