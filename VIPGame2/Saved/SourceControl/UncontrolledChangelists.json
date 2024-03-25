@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_Underwear_Male_01.uasset",
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_Italian_Gangster_01.uasset",
 				"E:/GitHubRepos/VIPGame2/VIPGame2/Content/PolygonGangWarfare/Meshes/Characters/SK_Chr_StreetGirl_01.uasset",
@@ -52,6 +53,21 @@
 				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/4C/EAPE4168W7X8348BUQ6GZD.uasset",
 				"D:/Git/VIPGame2/VIPGame2/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/0X/30SGD3NZZGKVKFSVX4BU1Y.uasset"
 >>>>>>> origin/Towers+UI
+=======
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDPlayerController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/PlaceableBaseAsset.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/PathTile.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterShotgun.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterPistol.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/ShooterMachinegun.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/GasTank.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/FireTank.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/GameObjects/Objects/Blockader.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Characters/TDCameraController.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/ObjectMenu.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset"
+>>>>>>> FixingPath
 			]
 		}
 	]
