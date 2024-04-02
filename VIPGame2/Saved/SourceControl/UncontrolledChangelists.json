@@ -22,7 +22,12 @@
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridManager.uasset",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid/GridCell.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainMenuWidget.uasset"
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainMenuWidget.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUDClass.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/Textures/drugdefender.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/Textures/pause.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/PauseButton.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/PauseMenu.uasset"
 			]
 		}
 	]
