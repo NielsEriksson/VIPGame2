@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/UI/MainHUD.uasset",
-				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap"
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Grid.umap",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Enemy/EnemyBlueprints/BP_Enemy.uasset",
+				"C:/Users/benja/Github/VIPGame2/VIPGame2/Content/Enemy/EnemySpawner/BP_EnemySpawner.uasset"
 			]
 		}
 	]
