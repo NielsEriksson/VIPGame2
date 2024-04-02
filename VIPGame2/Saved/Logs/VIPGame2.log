@@ -1796,3 +1796,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.02-12.37.04:122][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 377 ms)
 [2024.04.02-12.37.04:125][793]AssetCheck: New page: Asset Save: Grid
 [2024.04.02-12.37.04:125][793]LogContentValidation: Display: Validating /Script/Engine.World /Game/Grid.Grid
+[2024.04.02-12.37.38:708][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-12.37.42:288][590]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-12.37.45:728][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-12.37.47:699][ 29]LogEditorClassViewer: Warning: Class /Game/Enemy/EnemyBlueprints/BP_EnemyBlockadeDestroyer.PLACEHOLDER-CLASS__Blockader_C_0 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.02-12.37.52:089][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-12.37.53:989][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.02-12.37.54:809][681]LogSlate: Window 'Save Content' being destroyed
+[2024.04.02-12.37.54:839][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-12.37.54:870][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid" FILE="../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Grid.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.02-12.37.54:918][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.02-12.37.55:001][681]LogSavePackage: Moving output files for package: /Game/Grid
+[2024.04.02-12.37.55:002][681]LogSavePackage: Moving '../../../../../GitHubRepos/VIPGame2/VIPGame2/Saved/GridABFDD5654A083364D03D4A83762FE0CD.tmp' to '../../../../../GitHubRepos/VIPGame2/VIPGame2/Content/Grid.umap'
+[2024.04.02-12.37.55:013][681]LogFileHelpers: Saving map 'Grid' took 0.144
+[2024.04.02-12.37.55:019][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 557 ms)
+[2024.04.02-12.37.55:022][681]AssetCheck: New page: Asset Save: Grid
+[2024.04.02-12.37.55:022][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Grid.Grid
